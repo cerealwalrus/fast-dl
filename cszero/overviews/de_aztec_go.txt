@@ -1,0 +1,14 @@
+// overview description file for de_aztec_go.bsp
+
+global 
+{
+	ZOOM	1.32
+	ORIGIN	53.75	-127.31	-545
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztec_go.bmp"
+	HEIGHT	-545
+}
