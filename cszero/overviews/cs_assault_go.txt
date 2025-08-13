@@ -1,0 +1,14 @@
+// overview description file for cs_assault_go.bsp
+
+global 
+{
+	ZOOM	1.42
+	ORIGIN	-166.25	1427.44	-469
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_assault_go.bmp"
+	HEIGHT	-469
+}
