@@ -1,0 +1,14 @@
+// overview description file for go_italy.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	256 	-112.31	-225
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/go_italy.bmp"
+	HEIGHT	-225
+}

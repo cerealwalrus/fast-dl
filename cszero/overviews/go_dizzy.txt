@@ -1,0 +1,14 @@
+// overview description file for go_dizzy.bsp
+
+global 
+{
+	ZOOM	2.82
+	ORIGIN	464 	-434.69 -1306
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/go_dizzy.bmp"
+	HEIGHT	-1306
+}
