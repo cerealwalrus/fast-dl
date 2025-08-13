@@ -1,0 +1,17 @@
+// de_dust_csgo overview
+
+global
+{
+	ZOOM 1.10
+	ORIGIN 139.69	163.00	-192.00
+	ROTATED 0
+}
+	
+layer
+{
+	IMAGE "overviews/de_dust_csgo.tga"
+	HEIGHT -577.00
+}
+
+
+ Overview: Zoom 1.10, Map Origin (139.69, 163.00, -192.00), Z Min 193.00, Z Max -577.00, Rotated 0
